@@ -1,8 +1,7 @@
 export const navLinks = [
-  { label: "The Container Project", href: "/projects/container" },
-  { label: "Our Impact", href: "/#impact" },
-  { label: "Get Involved", href: "/contact" },
-  { label: "News", href: "/#news" },
+  { label: "Container Project", href: "/container-project" },
+  { label: "Our Story", href: "/our-story" },
+  { label: "Get Involved", href: "/get-involved" },
 ]
 
 export const site = {

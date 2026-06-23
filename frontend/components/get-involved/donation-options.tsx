@@ -8,7 +8,7 @@ const options = [
     title: "Donate Once",
     description: "Make a one-time gift to support classrooms, supplies, and student programs in West Point.",
     cta: "Donate Once",
-    href: "#contact",
+    href: "/get-involved#contact",
   },
   {
     featured: true,
@@ -16,7 +16,7 @@ const options = [
     title: "Monthly Sponsor",
     description: "Sustain a scholar's education with a recurring monthly gift that funds tuition, meals, and learning materials.",
     cta: "Become a Monthly Sponsor",
-    href: "#contact",
+    href: "/get-involved#contact",
   },
   {
     featured: false,
@@ -24,7 +24,7 @@ const options = [
     title: "The Container Project",
     description: "Fund modular classrooms and learning labs built from shipping containers for children who need them most.",
     cta: "Fund the Project",
-    href: "/projects/container",
+    href: "/container-project",
   },
 ]
 

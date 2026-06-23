@@ -22,7 +22,7 @@ export function Gallery() {
           </h2>
         </div>
         <Button
-          render={<Link href="/projects/container" />}
+          render={<Link href="/container-project" />}
           nativeButton={false}
           variant="outline"
           className="rounded-full bg-card px-5"

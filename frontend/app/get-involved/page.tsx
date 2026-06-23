@@ -5,7 +5,7 @@ import { DonationOptions } from "@/components/get-involved/donation-options"
 import { VolunteerSection } from "@/components/get-involved/volunteer-section"
 import { ContactSection } from "@/components/get-involved/contact-section"
 
-export default function ContactPage() {
+export default function GetInvolvedPage() {
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <SiteHeader />

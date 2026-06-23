@@ -31,14 +31,14 @@ export function ContainerHero() {
 
           <div className="mb-16 flex flex-wrap gap-4">
             <Link
-              href="/contact"
+              href="/get-involved"
               className="group flex items-center gap-2 rounded-full bg-cdsa-green px-8 py-4 text-[14px] font-bold uppercase leading-[20px] tracking-[0.05em] text-white dark:bg-cdsa-lime dark:text-[#1a1e00]"
             >
               Donate to the Project
               <MaterialSymbol name="arrow_forward" className="transition-transform group-hover:translate-x-1" />
             </Link>
             <Link
-              href="/contact"
+              href="/get-involved"
               className="flex items-center gap-2 rounded-full border border-cdsa-border bg-cdsa-muted px-8 py-4 text-[14px] font-bold uppercase leading-[20px] tracking-[0.05em] text-cdsa-foreground"
             >
               Get Involved

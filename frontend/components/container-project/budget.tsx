@@ -42,7 +42,7 @@ export function BudgetTransparency() {
               </div>
             </div>
             <Link
-              href="/contact"
+              href="/get-involved"
               className="flex items-center justify-center gap-3 rounded-full bg-cdsa-lime px-10 py-5 text-[14px] font-bold uppercase leading-[20px] tracking-[0.05em] text-[#1a1e00] transition-transform hover:scale-105"
             >
               <MaterialSymbol name="picture_as_pdf" />

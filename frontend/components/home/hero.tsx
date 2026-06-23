@@ -45,7 +45,7 @@ export function Hero() {
             </p>
 
             <Link
-              href="/projects/container"
+              href="/container-project"
               className="mt-8 inline-flex items-center gap-2 rounded-full bg-cdsa-lime px-6 py-3 text-sm font-bold uppercase tracking-wide text-[#1a1e00] transition-transform hover:scale-105"
             >
               Explore Our School Project

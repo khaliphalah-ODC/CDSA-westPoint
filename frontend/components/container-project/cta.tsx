@@ -17,19 +17,19 @@ export function ProjectCta() {
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link
-                href="/contact"
+                href="/get-involved"
                 className="rounded-full bg-cdsa-lime px-10 py-4 text-[14px] font-bold uppercase leading-[20px] tracking-[0.05em] text-[#1a1e00] transition-transform hover:scale-105"
               >
                 Donate Now
               </Link>
               <Link
-                href="/contact"
+                href="/get-involved"
                 className="rounded-full border border-cdsa-lime/30 bg-cdsa-green-dark px-10 py-4 text-[14px] font-bold uppercase leading-[20px] tracking-[0.05em] text-cdsa-lime transition-colors hover:bg-cdsa-green-dark/80 dark:bg-cdsa-muted"
               >
                 Become a Sponsor
               </Link>
               <Link
-                href="/projects/container"
+                href="/container-project"
                 className="flex items-center gap-2 rounded-full bg-white/10 px-10 py-4 text-[14px] font-bold uppercase leading-[20px] tracking-[0.05em] text-white transition-colors hover:bg-white/20"
               >
                 <MaterialSymbol name="share" />

@@ -14,7 +14,7 @@ export function ContactCta() {
         </p>
         <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
           <Button
-            render={<Link href="/contact" />}
+            render={<Link href="/get-involved" />}
             nativeButton={false}
             size="lg"
             className="rounded-full px-7"
@@ -23,7 +23,7 @@ export function ContactCta() {
             <ArrowRight className="size-4" />
           </Button>
           <Button
-            render={<Link href="/projects/container" />}
+            render={<Link href="/container-project" />}
             nativeButton={false}
             size="lg"
             variant="outline"

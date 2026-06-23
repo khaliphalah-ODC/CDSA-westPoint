@@ -50,7 +50,7 @@ export function ContainerHighlight() {
 
         <div className="border-t border-cdsa-border px-6 py-6 md:px-10">
           <Link
-            href="/projects/container"
+            href="/container-project"
             className="inline-flex items-center gap-2 text-sm font-bold uppercase tracking-wide text-cdsa-green transition-colors hover:text-cdsa-lime dark:text-cdsa-lime"
           >
             View The Container Project

@@ -46,7 +46,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-2">
           <ThemeToggle className="hidden sm:inline-flex" />
           <Link
-            href="/contact"
+            href="/get-involved"
             className="inline-flex items-center gap-2 rounded-full bg-cdsa-green px-5 py-2.5 text-sm font-bold text-white transition-opacity hover:opacity-90 dark:bg-cdsa-lime dark:text-[#1a1e00]"
           >
             <Heart className="size-4 fill-current" />
